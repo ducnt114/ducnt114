@@ -1,5 +1,9 @@
-### A software engineer with product mindset.
+### Software engineer
 
+- 13+ years of experience
+- Tech stack: Go, Python, NextJS
+- Product builder:
+  - https://send2read.app
 
 <!--
 **ducnt114/ducnt114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
